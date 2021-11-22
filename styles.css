@@ -1,0 +1,26 @@
+* {
+  background-color: rgb(255, 245, 230);
+  font-family: "Times New Roman", Georgia, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  font-family: "Brush Script MT", cursive;
+}
+
+img {
+  height: auto;
+  width: 500px;
+}
+
+.header {
+  width: 600px;
+}
+
+.desc,
+ol,
+ul {
+  margin: auto;
+  width: 750px;
+  padding: 5px;
+}
