@@ -17,10 +17,18 @@ img {
   width: 600px;
 }
 
-.desc,
-ol,
-ul {
+.desc {
   margin: auto;
   width: 750px;
   padding: 5px;
+}
+
+ol,
+ul {
+  margin: auto;
+  width: 600px;
+}
+
+.ingredients li, .steps li {
+  text-align: left;
 }
